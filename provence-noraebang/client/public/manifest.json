@@ -1,0 +1,25 @@
+{
+  "name": "[프로방스] 가락동 노래방",
+  "short_name": "프로방스 노래방",
+  "description": "럭셔리한 인테리어와 스튜디오급 음질을 제공하는 가락동 최고의 프리미엄 노래방",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#d4a574",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["entertainment", "music"],
+  "screenshots": [
+    {
+      "src": "https://d2xsxph8kpxj0f.cloudfront.net/310519663657517864/WsuCmDHSo38pqtq8kLiHKC/hero-background-WvxYxNNvqbsbnUZmijamBY.webp",
+      "sizes": "540x720",
+      "type": "image/webp"
+    }
+  ]
+}

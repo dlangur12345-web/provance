@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://provence-noraebang.manus.space/sitemap.xml
+
+# Crawl-delay for search engines
+Crawl-delay: 1
